@@ -1,5 +1,5 @@
 ## An Open Source Rendering Pipeline for Neuroimaging Data
-
+![](https://github.com/JC-Projects/Open-Source-Rendering-Pipeline-for-Neuroimaging-Data/blob/main/Render%20Images%20and%20Animations/Render%20-%20Animation.gif)
 ![](https://github.com/JC-Projects/Open-Source-Rendering-Pipeline-for-Neuroimaging-Data/blob/main/Render%20Images%20and%20Animations/Render%20-%20Image.png)
 
 **🚧WIP**
