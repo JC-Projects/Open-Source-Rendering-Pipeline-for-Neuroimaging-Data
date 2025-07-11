@@ -5,7 +5,7 @@
 **🚧WIP**
 -
 This pipeline is currently very simple, and whilst it does produce usable renders, I believe significant improvements can be made. Current future plans are as follows:
-- Manual masking in InVesalius to improve ventricular detail and allow optional removal of lobes for interior visibility
+- ~~Manual masking in InVesalius to improve ventricular detail and allow optional removal of lobes for interior visibility~~ (11/07/24: Complete. Increased cortical and ventricular detail)
 - Texture painting of regions (particularly lobes) for better use in scientific communication
 - Find open access MRI data with more z-levels and detail to reduce horizontal banding
 - Potential integration of SPM as a replacement for InVesalius to improve .STL topology and allow more fine manipulation outside of Blender
