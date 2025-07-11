@@ -9,7 +9,7 @@ This pipeline is currently very simple, and whilst it does produce usable render
 - Texture painting of regions (particularly lobes) for better use in scientific communication
 - Find open access MRI data with more z-levels and detail to reduce horizontal banding
 - Potential integration of SPM as a replacement for InVesalius to improve .STL topology and allow more fine manipulation outside of Blender
-- Incorporate pipeline for CT scan data
+- Incorporate pipeline for CT and PET data if possible
 
 **🔨TOOLS USED**
 - 
