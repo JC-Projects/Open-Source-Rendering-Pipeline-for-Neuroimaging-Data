@@ -1,15 +1,11 @@
 ## An Open Source Rendering Pipeline for Neuroimaging Data
-![](https://github.com/JC-Projects/Open-Source-Rendering-Pipeline-for-Neuroimaging-Data/blob/main/Render%20Images%20and%20Animations/Render%20-%20Animation.gif)
-![](https://github.com/JC-Projects/Open-Source-Rendering-Pipeline-for-Neuroimaging-Data/blob/main/Render%20Images%20and%20Animations/Render%20-%20Image.png)
+![MRI Anatomical slicing gif](https://github.com/JC-Projects/Open-Source-Rendering-Pipeline-for-Neuroimaging-Data/blob/main/Render%20Images%20and%20Animations/Render%20-%20Animation.gif)
 
 **🚧WIP**
 -
-This pipeline is currently very simple, and whilst it does produce usable renders, I believe significant improvements can be made. Current future plans are as follows:
-- ~~Manual masking in InVesalius to improve ventricular detail and allow optional removal of lobes for interior visibility~~ 11/07/25: Complete. Increased cortical and ventricular detail
-- ~~Texture painting of regions (particularly lobes) for better use in scientific communication~~ 12/07/25: Tested but highly unstable in current Blender version. Awaiting Vulkan update with 4.5 (scheduled 15/07/25)
-- Find open access MRI data with more z-levels and detail to reduce horizontal banding
+Current future plans are as follows:
 - Potential integration of SPM as a replacement for InVesalius to improve .STL topology and allow more fine manipulation outside of Blender
-- Incorporate pipeline for CT, PET and MEG data if possible
+- Incorporate pipeline for fMRI BOLD, CT, PET and MEG data
 
 **🔨TOOLS USED**
 - 
