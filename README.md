@@ -1,11 +1,14 @@
 ## An Open Source Rendering Pipeline for Neuroimaging Data
 ![MRI Anatomical slicing gif](https://github.com/JC-Projects/Open-Source-Rendering-Pipeline-for-Neuroimaging-Data/blob/main/Render%20Images%20and%20Animations/Render%20-%20Animation.gif)
 
+![MRI Anatomical slicing gif](https://github.com/JC-Projects/Open-Source-Rendering-Pipeline-for-Neuroimaging-Data/blob/main/Render%20Images%20and%20Animations/Render%20-%20fMRI%20BOLD%20Image.jpg)
+
 **🚧WIP**
 -
 Current future plans are as follows:
 - Potential integration of SPM as a replacement for InVesalius to improve .STL topology and allow more fine manipulation outside of Blender
-- Incorporate pipeline for fMRI BOLD, CT, PET and MEG data
+- Incorporate pipeline for CT, PET and MEG data
+- Improve fMRI BOLD pipeline to show multiple frames
 
 **🔨TOOLS USED**
 - 
