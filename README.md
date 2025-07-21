@@ -7,7 +7,7 @@
 -
 Current future plans are as follows:
 - Potential integration of SPM as a replacement for InVesalius to improve .STL topology and allow more fine manipulation outside of Blender
-- Incorporate pipeline for CT, PET and MEG data
+- Incorporate pipeline for CT, PET, MEG and OCT data
 - Improve fMRI BOLD pipeline to show multiple frames
 
 **🔨TOOLS USED**
